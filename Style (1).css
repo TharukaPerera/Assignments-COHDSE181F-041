@@ -1,0 +1,20 @@
+@charset "utf-8"; 
+/* CSS Document */ 
+textarea 
+{ 
+ width: 400px; 
+ height: 80px; 
+ background-color: #52B74C; 
+ resize: none; 
+} 
+button 
+{ 
+ width: 100px; 
+ height: 25px; 
+ background-color: #228F13; 
+ border: medium; 
+ color: #0C0AE; 
+ font-family: Cambria, "Hoefler Text", "Liberation Serif", Times, "Times New Roman", "serif"; 
+ font-weight: 400; 
+ cursor: pointer; 
+} 
